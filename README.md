@@ -1,2 +1,2 @@
 # exp1
-music play list
+music playlist
